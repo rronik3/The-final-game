@@ -50,6 +50,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8C05E514BECFA3925CF78C9C938A3FFE20F6F8A9",
+			"Assets": [
+				"/Game/Bow/source/bow_metal_mt"
+			]
+		},
+		{
 			"ShaderMapHash": "54D71517F1C018C8A83D0A4115261C390AAF12C8",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial"
@@ -116,6 +122,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7AF40E2C24CA91B0EC14A3FD1141CBE212B975D3",
+			"Assets": [
+				"/Game/Bow/source/bow_wood_mt"
+			]
+		},
+		{
 			"ShaderMapHash": "D9EF9F34031472DA35B9FABE051BA223A9F228D5",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
@@ -131,6 +143,12 @@
 			"ShaderMapHash": "34081B3595792A4121B61EC1224890964BC2ED1C",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9BC5393675576587D3D1B9177C05043198307FB6",
+			"Assets": [
+				"/Game/StylizedProvencal/Materials/MI_Flora_02"
 			]
 		},
 		{
@@ -158,6 +176,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "11C6343E0E9C3510E666FBB5E760CF8FA253ADCA",
+			"Assets": [
+				"/Game/StylizedProvencal/Materials/MI_Rocks_",
+				"/Game/StylizedProvencal/Materials/MM_Master_Default"
+			]
+		},
+		{
 			"ShaderMapHash": "C993463F4EBAED89FDD4BF0FB888BF7434019EEE",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
@@ -179,75 +204,6 @@
 			"ShaderMapHash": "1335E54304D849A88C10F9B50935D832DA895592",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "3AF55F46EF549D15EE810F4A5BE99F21CD6B33B9",
-			"Assets": [
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/062VPHY2A664O1BFN6K10ZTFC",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/0DKNXQ64G0741WMB1HG25AYNU",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/0FBSY5KVOXKO2F95PG60Y9LQ1",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/0FO269CJJPT1KWUNPV8I3D7HF",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/0ULS9JG1EER47G9XYQAP7GS53",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/0YRZP86H9BCB7FYAVAQIEYRCY",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/11FM09D4X0P92LN4J15MPZWTO",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/14TWR481M9BR03G9I7NG4KINT",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/18QM8YK0GSQ018IPR6OT7RJC5",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/1BX0BGYZ17G0U09675N1KG9F8",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/1KA8PENA07S1TLPYUQT1ADWJW",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/1XRO772MR72DR4NTZXXPNQLCL",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/23ZR7LQ5LZ3FS0PMCR1ZKJBX5",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/264SVRNDEWW4MGWUIDC4BTIXK",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/2EXPORCQWFXA0VGPUZFFEH42V",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/2KZONTR6XMIOC1XIKLEAIDFGK",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/2NGRSF81RI2C7PGU0F4UWZ4QP",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/3VF47RGRS9W4BJX2S86EFTVJD",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/47IZ3J3V5ZG6TMR3GM3VMJ2Y2",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/4VMFP9X0E1WZQ30W8JQB6M1YL",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/4ZN1OJP2B964Q0681LMOH9CAD",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/52ROPPDGP6LV1T2TJ05NFM0XY",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5589EJ3YNAFY0K517GT76Z3EM",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/560Q2YQDUSHN6VRUZ0LHOWU97",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5GC7QNJQ9XVF1C45OZMTCJC0G",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5JAFRUW7M8C40BCVQK2GXFJNJ",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5JYRKCDWVZW8AS85ROYF9H9AR",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5Y4REHE1GDAJJ90DPEI1VVKT8",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/5YLXSWDD6B74X559RZ9RN5K99",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/6STUIE5HIVZGCEZANDWW93U27",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/6U1Q6DZVXYENNRFSLB9Q4MBCV",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/7E8MPC3Z1ENYFQOFU0TO8H1O3",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/7IZRC9ECG7XKK61Q37LY67KCB",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/7QAN0CUPH7L6XIAXVC415BO3H",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/7W0EWM8OGZ345XSTZNS5AQMBI",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/8FBSR6G98CEOTI59LE9GFCH6X",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/8HTVHG4ZV10ESALAMDOXITR27",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/8MWLTTOWQ9MQISB0FTDRBG27N",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/90YKWZXGBC5Q8M7RFK49P371F",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/91C65FSOVE5PX3RH3ZE5R7AWP",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/9CG6NSY5SPFUYJH4AIWXX1QD9",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/9DWYO4CR8ZRKRYVNPHDVJTYH4",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/9NTQYTBKVO06SRUD63GKC165Y",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/9SC5WUA5JIS0UM415PBWV1RPM",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/A162FR22SPAI1JX798GP4T1ZY",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/A7UZ852D2ZZOKJMRIHDRWHDZ8",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/B11KFXDGHHWI998I49YF8OSCV",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/BT99C0BD1H8P4P6YI5OOM83O3",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/BXVJS9DZO1LTJ87VJXMLNXJ85",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/CGX8O6ITCT8PB63Y6Q4CTFLKF",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/CI21SMK3TPP9F7V768J0FQPFN",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/CMII0KWF4DK79CQ7FNE3VYZ0Y",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/CTLYDDTL70JB2XY8IR8UZ41PX",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/D1DN3JVAKT1IU41G7WQCLQRAM",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/D528WYH177JBF1MVERKEF59XI",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/DCTE9CM81UE50WYEPVQYX7F1G",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/DQ6VH2NBB7RXPEUMYIX9HP52D",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/EDEENOWTZDO3K761WYC6F62MH",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/EJQVVAI5ME30NB6FGJ49AXY9F",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/ERDR3X7GTNEIJLJS14Q6QZGUD",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/ETTXYQ53RP132MUZA505BMZBV",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/EUV70YALLEKX8DTKFHA9JZCNR",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/EVZZ44OOC35CBVX4NIVJ6ZF92",
-				"/Engine/Maps/Templates/OpenWorld/_Generated_/EYFK9JZPSX06MOH3LNAI7SW92"
 			]
 		},
 		{
@@ -294,6 +250,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9E565757895ECDBB8F0D55C648344337C6D62E42",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Horse_Tongue"
+			]
+		},
+		{
 			"ShaderMapHash": "A11B76579C744A6BDD45E032BA2548B2C8EB6E02",
 			"Assets": [
 				"/HairStrands/Materials/HairDebugMaterial"
@@ -315,6 +277,12 @@
 			"ShaderMapHash": "0232115D06C45A549313E2EF2E3B0497117DAE5C",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8E68AF5D30C5BA5D48D9124B5CF92C5D46B05AF2",
+			"Assets": [
+				"/Game/level/NewMap/_Generated_/7QSLH1TPPYF8NLCNZ2RUJS0DL"
 			]
 		},
 		{
@@ -354,15 +322,46 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6FD29E6A84973745FB616193E47E23AE04F562CA",
+			"Assets": [
+				"/Game/StylizedProvencal/Materials/MI_Flora_04"
+			]
+		},
+		{
+			"ShaderMapHash": "1537926F62D71458A0BB1449873FBCB6BDD1AFB8",
+			"Assets": [
+				"/Game/StylizedProvencal/Materials/MM_Master_Grass"
+			]
+		},
+		{
 			"ShaderMapHash": "15174D74B798DA02B7157BE4D7589277D3185C39",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		},
 		{
+			"ShaderMapHash": "92CFC6750ADB8FE4BF79F400EAF252E26817295A",
+			"Assets": [
+				"/Game/StylizedProvencal/Materials/MI_Flora_Flowers_02"
+			]
+		},
+		{
+			"ShaderMapHash": "ACDE6C765815CC6A60BABD0D897D435322029A82",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Saddle_Cloth_Black",
+				"/Game/Horse/Materials/Mat_Saddle_Cloth_White"
+			]
+		},
+		{
 			"ShaderMapHash": "6F9E84776335304865C6C71E576BAB828C93D32A",
 			"Assets": [
 				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DD6BFD7983768372B9CAA3509BF98AD51B5088ED",
+			"Assets": [
+				"/Game/StylizedProvencal/M_GrassLandscape"
 			]
 		},
 		{
@@ -390,6 +389,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "AFA7DA804AC7133F2488EF9BF90C7454F18E075A",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Saddle_Brown"
+			]
+		},
+		{
 			"ShaderMapHash": "00CCF6815255F7B241D9563F76E0BEC4A1B091A2",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask_DS"
@@ -405,6 +410,12 @@
 			"ShaderMapHash": "9D41AB82C05735C9E56E3F9BD934A21F2752EC9B",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "4BDA18864372AA08AABD61FD905E48A2B3B7B1AE",
+			"Assets": [
+				"/Game/StylizedProvencal/Materials/MI_Grass_a"
 			]
 		},
 		{
@@ -439,6 +450,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "45FA988FCF4174BE32EAEB2FCD1482BF5F114ADA",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Horse_Eyeball_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "5909B39429F1E80F2760CF51851096CAED04586A",
 			"Assets": [
 				"/Game/Weapon/textures/M_Sword"
@@ -463,6 +480,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "99A9609F5B251FD722247C00D53211F3206162B1",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Horse_Mouth"
+			]
+		},
+		{
 			"ShaderMapHash": "9EE4B39F6B4AE11EB322E28CFFEFB8BAF967054F",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
@@ -472,6 +495,12 @@
 			"ShaderMapHash": "635512A091BF9180774FB298E563B5425AF672F8",
 			"Assets": [
 				"/Game/enemy1/material/Body_MAT4"
+			]
+		},
+		{
+			"ShaderMapHash": "988704A3F836F9AE02DFAA7A9DB385B3B8B86F18",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Horse_Teeth"
 			]
 		},
 		{
@@ -490,6 +519,12 @@
 			"ShaderMapHash": "B9E685A68A1E204AA2F5D8E0DD4A3ECE13C5C56C",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9D9362A71F088976764254DFA2B9D273BF9CE6AD",
+			"Assets": [
+				"/Game/level/NewMap/_Generated_/7QSLH1TPPYF8NLCNZ2RUJS0DL"
 			]
 		},
 		{
@@ -523,12 +558,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9A32B4B00D6512D29AE1DB934318393847859BCB",
-			"Assets": [
-				"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "C70D09B126F304BFAAC62D1EE8D763DF9265DA81",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend_DS"
@@ -544,6 +573,12 @@
 			"ShaderMapHash": "E4DFABB3AF9FCA2EBFF9AAD2388DC48B2ECA856E",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B789CAB4CADDE3CD403646B8BD659DBEDA830ED6",
+			"Assets": [
+				"/Game/StylizedProvencal/Materials/MI_Rock_Cliffs"
 			]
 		},
 		{
@@ -569,6 +604,12 @@
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask",
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "E225CDBB583F080D2138D096C441B94D29A4830A",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Sadle_Footholds_Metal"
 			]
 		},
 		{
@@ -620,6 +661,13 @@
 			]
 		},
 		{
+			"ShaderMapHash": "FB0478C8A78B7C761CB0C2F031DD351D79251F78",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Horse_Brown_1",
+				"/Game/Horse/Materials/Mat_Horse_Brown_2"
+			]
+		},
+		{
 			"ShaderMapHash": "E72E67CF0DED1D55EA0C9215103DD57CCFD3A7C7",
 			"Assets": [
 				"/Game/Blood/D_Blood1"
@@ -633,9 +681,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "518677D43B179FE295462922B4AEEF23B340939F",
+			"Assets": [
+				"/Game/Horse/Materials/Mat_Reins_BrownLeather"
+			]
+		},
+		{
 			"ShaderMapHash": "C3A2F9D73125A9E48F0C883C414AA98782DB7321",
 			"Assets": [
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "2B1C0FE461A487B23FC8252AAEED49CB20BB1171",
+			"Assets": [
+				"/Game/StylizedProvencal/Materials/MI_Tree_Flora_02"
 			]
 		},
 		{
