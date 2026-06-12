@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"F:\\Study\\The-final-game\\horror\\Intermediate\\Source\\horror.Build.cs",
+		"F:\\Study\\The-final-game\\horror\\Intermediate\\Source\\horror.Target.cs",
+		"F:\\Study\\The-final-game\\horror\\Intermediate\\Source\\horrorClient.Target.cs",
+		"F:\\Study\\The-final-game\\horror\\Intermediate\\Source\\horrorEditor.Target.cs",
+		"F:\\Study\\The-final-game\\horror\\Intermediate\\Source\\horrorServer.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
