@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\study\\the-final-game\\horror\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\horror\\module.horror.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\study\\the-final-game\\horror\\intermediate\\build\\win64\\x64\\horror\\shipping\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\study\\the-final-game\\horror\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\horror\\definitions.horror.h",
+            "f:\\study\\the-final-game\\horror\\intermediate\\source\\horror.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
